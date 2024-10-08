@@ -14,7 +14,7 @@ resources_links:
   - text: 'Team'
     link: '/team/'
   - text: 'Careers'
-    link: '/careers'
+    link: 'https://www.linkedin.com/company/axalglobal/jobs'
   - text: 'Press'
     link: '/press/'
   - text: 'Investor Relations'
