@@ -28,17 +28,17 @@ resources_links:
 
 social_links:
   - name: "facebook"
-    link: 'https://www.facebook.com/AxalNetwork'
+    link: 'https://www.facebook.com/AxalGlobal'
     icon: "fab fa-facebook-f"
 
   - name: "Instagram"
-    link: 'https://www.instagram.com/axalnetwork'
+    link: 'https://www.instagram.com/axalglobal'
     icon: "fab fa-instagram"
 
   - name: "LinkedIn"
-    link: 'https://www.linkedin.com/company/axalnetwork'
+    link: 'https://www.linkedin.com/company/axalglobal'
     icon: "fab fa-linkedin-in"
 
   - name: "Twitter"
-    link: 'https://twitter.com/AxalNetwork'
+    link: 'https://twitter.com/AxalGlobal'
     icon: "fab fa-twitter"
