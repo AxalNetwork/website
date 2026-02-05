@@ -1,3 +1,7 @@
+- image: 'img/brands/b1.png'
+  link: 'https://filecoin.io'
+- image: 'img/brands/b2.png'
+  link: 'https://runonflux.com'
 - image: 'img/brands/b3.png'
   link: 'https://essencia.life'
 - image: 'img/brands/b4.png'
