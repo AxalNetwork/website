@@ -17,6 +17,10 @@
 - image: 'img/brands/b9.png'
   link: 'https://rendernetwork.com'
 - image: 'img/brands/b10.png'
-  link: '#'
+  link: 'https://www.se.com'
+- image: 'img/brands/b11.png'
+  link: 'https://www.vertiv.com'
+- image: 'img/brands/b12.png'
+  link: 'https://www.abb.com'
 
 
